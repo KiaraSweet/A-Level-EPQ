@@ -1,0 +1,13 @@
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\bin\Debug\netcoreapp3.1\EPQ.exe
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\bin\Debug\netcoreapp3.1\EPQ.deps.json
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\bin\Debug\netcoreapp3.1\EPQ.runtimeconfig.json
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\bin\Debug\netcoreapp3.1\EPQ.runtimeconfig.dev.json
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\bin\Debug\netcoreapp3.1\EPQ.dll
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\bin\Debug\netcoreapp3.1\EPQ.pdb
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\obj\Debug\netcoreapp3.1\EPQ.csprojAssemblyReference.cache
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\obj\Debug\netcoreapp3.1\EPQ.AssemblyInfoInputs.cache
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\obj\Debug\netcoreapp3.1\EPQ.AssemblyInfo.cs
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\obj\Debug\netcoreapp3.1\EPQ.csproj.CoreCompileInputs.cache
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\obj\Debug\netcoreapp3.1\EPQ.dll
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\obj\Debug\netcoreapp3.1\EPQ.pdb
+C:\Users\kiara.sweet\source\repos\EPQ\EPQ\obj\Debug\netcoreapp3.1\EPQ.genruntimeconfig.cache
